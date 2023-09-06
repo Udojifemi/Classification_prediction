@@ -1,5 +1,5 @@
 # Classification_prediction
-The project focuses on using machine learning techniques to predict sales trends
+The project focused on using machine learning techniques to predict sales trends
 
 In this project, data used was from a business that deals with the sales and supply of vehicles – cars, planes, ships, motorcycles, etc. Sales analytics for any business is essential because it affords the opportunity to further understand consumer behaviour in terms of buying patterns, trending products and to forecast future trends so as to enable the business position itself and be able to adequately meet the future needs of its customers. The dataset was sourced from the Kaggle website showing transaction details of vehicles bought and supplied to customers based in several countries (Carina Roldán, M. and Segura, G., 2014).
 
